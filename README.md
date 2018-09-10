@@ -7,4 +7,7 @@ Water-sim is an isometric water surface simulator made in python. It uses an arr
 ## Instructions
 
 Install python 3
+
 Run Main.py
+
+Left click or right click to cause perturbation
